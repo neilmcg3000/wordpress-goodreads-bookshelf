@@ -1,5 +1,5 @@
 <div class="wrap" id="book_div">
-<h2>Bookshelf Settings</h2>
+<h2>Goodreads Bookshelf Settings</h2>
 <form action="options.php" method="post">
                 <?php wp_nonce_field('update-options'); // Protect against XSS ?>
         <div id="poststuff" class="metabox-holder">
