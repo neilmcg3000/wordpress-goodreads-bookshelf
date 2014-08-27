@@ -9,7 +9,7 @@ Display a custom list of books from any of your Goodreads.com bookshelves, and s
 
 == Description ==
 
-WordPress Goodreads Bookshelf (aka Bookshelf) allows you to display a custom list of books from your [Goodreads](http://goodreads.com) shelves anywhere on your site that PHP is allowed.
+WordPress Goodreads Bookshelf allows you to display a custom list of books from your [Goodreads](http://goodreads.com) shelves anywhere on your site that PHP is allowed.
 
 *   You can choose from any one of your bookshelves including your custom shelves on [Goodreads](http://goodreads.com).
 *   You can specify how many books it should retrieve from the shelf and how often it should update the list on your site.
